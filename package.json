@@ -1,0 +1,13 @@
+{
+  "name": "gravitycenter",
+  "version": "0.0.1",
+  "dependencies": {
+    "googlemaps": "0.1.x",
+    "underscore": "*",
+    "async": "0.2.x"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
